@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Unauthenticated Information Disclosure on PIX-LINK LV-WR21Q ("CVE requested")
 excerpt: "I found a way to get the password of the wifi router when it's in normal mode or repeater mode without authenticating on the router gateway"
 date: 2024-05-08
 classes: wide
@@ -13,20 +14,22 @@ tags:
   - Routers
   
 ---
-Info:
+Vulnerability Information:
 - Product: PIX-LINK
 - Model: LV-WR21Q
 - Firmware Version: V109_109
-- Vulnerability: Information Disclosure
+- Vulnerability: Unauthenticated Information Disclosure
 - Impact: <strong>Unauthorized Access to Wifi</strong>.
 - Author: Red Team - Miguel Alves (@0xmupa), Fabrício Oliveira (xf5), Sérgio Charruadas
 
 Hello friend, today I'm showing you an Information Disclosure fault in a PIX-LINK router.
 
-First of all, you need to know that this fault will only be executed if you have cable access to the router or if the router Gateway is connected to the Internet. <br />
+First of all, you need to know that this fault will only be executed if you have cable access to the router or if the router Gateway is connected to the Internet.
+
 Ps: It also works via wifi but what's the point of knowing the wifi password when you're already connected to it? hehehe.
 
-Firmware Version:
+<strong>Firmware Version:</strong>
+
 ![](/assets/images/pix_link_cve/firmware_version.png)
 
 PoC:
@@ -78,7 +81,7 @@ if __name__ == "__main__":
 
 The exploit is very simple, in a nutshell, it will look for the Host/IP and what information we want to access from the shell parameter, then it will look for the endpoint of the API that is destined to return that information and it will give us the answer.
 
-[POC Video](https://youtu.be/EcXSO12Oe0Q).
+Check the [POC Video](https://youtu.be/EcXSO12Oe0Q).
 
 
 <strong>I wanted to save the world.</strong>
