@@ -2,7 +2,7 @@
 layout: single
 title: Unauthenticated DoS on PIX-LINK LV-WR21Q ("CVE requested")
 excerpt: "I've found a way to perform a denial of service and cause service disruption on the router gateway"
-date: 2024-05-28
+date: 2024-05-27
 classes: wide
 header:
   teaser: /assets/images/pix_link_cve/PIX-LINK-DOS.png
