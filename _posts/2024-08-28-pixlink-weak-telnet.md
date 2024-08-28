@@ -42,7 +42,7 @@ GOTCHA!!!!
 
 ![](/assets/images/pix_link_cve/weak_telnet_poc.png)
 
-Although it's a rather stupid vulnerability, it's a vulnerability that we see in many systems today.
+Although it's a rather stupid vulnerability, it's a vulnerability that we see in many systems today. 
 
 
 <strong>Growth hackers don't tolerate waste.</strong>
