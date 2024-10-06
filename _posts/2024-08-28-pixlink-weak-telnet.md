@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Weak Telnet Remote Access on PIX-LINK LV-WR22 (“CVE requested”)
+title: Weak Telnet Remote Access on PIX-LINK LV-WR22 (CVE-2024-46280)
 excerpt: "I found a way to access the router's telnet using weak credentials"
 date: 2024-08-28
 classes: wide
