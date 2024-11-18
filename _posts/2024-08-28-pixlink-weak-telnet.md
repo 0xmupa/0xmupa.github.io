@@ -19,7 +19,7 @@ Vulnerability Information:
 - Model: LV-WR22
 - Firmware Version: RE3002-P1-01_V117.0
 - Vulnerability: Weak Telnet Remote Access
-- Impact: <strong>Root access to the device via the local network.</strong>.
+- Impact: <strong>Root access to the device via the local network</strong>.
 - Author: Red Team - Miguel Alves (@0xmupa), Fabrício Oliveira (xf5), Sérgio Charruadas
 
 Hello friend, today I'm showing you a vulnerability that I found while researching the PIX-Link LV-WR22 router, although it's critical, it's quite easy to exploit. 
