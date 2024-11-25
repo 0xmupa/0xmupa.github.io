@@ -15,8 +15,8 @@ tags:
   
 ---
 VDP Information:
-- VDP Link: https://bugcrowd.com/engagements/olx-eu
-- Hall of Fame Link: https://bugcrowd.com/engagements/olx-eu/hall_of_fames
+- VDP Link: [https://bugcrowd.com/engagements/olx-eu](https://bugcrowd.com/engagements/olx-eu)
+- Hall of Fame Link: [https://bugcrowd.com/engagements/olx-eu/hall_of_fames](https://bugcrowd.com/engagements/olx-eu/hall_of_fames)
 
 Hello friend, I am incredibly proud to share this achievement; My name is officially in the Hall of Fame for OlxEU, in the Vulnerability Disclosure Program (VDP) on the Bugcrowd platform.
 
