@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Users email enumeration by unauthenticated user (CVE-2024-43416)
-excerpt: "I and my team found a way to enumerate emails without authentication in GLPI"
+excerpt: "Me and my team found a way to enumerate emails without authentication in GLPI"
 date: 2024-11-18
 classes: wide
 header:
