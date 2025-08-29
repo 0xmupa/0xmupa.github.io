@@ -1,7 +1,7 @@
 ---
 layout: redirect
 title: "Webserver DoS in 55 MFPrinters bizhub from Konica Minolta (CVE-2025-54777)"
-redirect_to: https://www.konicaminolta.jp/business/support/important/250829_01_01.html
+redirect_to: https://www.konicaminolta.com/global-en/security/advisory/pdf/km-2025-0004.pdf
 excerpt: "Me and my friend Sergio found a DoS in 55 MFPrinters bizhub from Konica Minolta"
 date: 2025-08-29
 classes: wide
