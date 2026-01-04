@@ -6,7 +6,7 @@ excerpt: "A blog post written for the Bugcrowd blog about a vulnerability I foun
 date: 2025-05-1
 classes: wide
 header:
-  teaser: /assets/images/nasa/nasa_banner.png
+  teaser: /assets/images/nasa/nasa.jpg
   teaser_home_page: true
 categories:
   - Bug Bounty
